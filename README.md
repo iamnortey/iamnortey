@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Isaac — a builder who enjoys making systems quieter, more reliable, and easier to reason about.
+A builder who enjoys making systems quieter, more reliable, and easier to reason about.
 
 My work tends to sit at the intersection of:
 
