@@ -1,59 +1,34 @@
-## Hi there
-
-Systems-oriented software engineer building production-grade applications with operational clarity at their core.
+Building tools and documenting what I learn along the way.
 
 ---
 
-### Featured Work
+### Projects
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **Ojanaa** | WhatsApp-native POS with invoice trust loop | [Docs](https://github.com/iamnortey/ojanaa-docs) · [Case Study](https://github.com/iamnortey/portfolio/blob/main/case-studies/ojanaa.md) |
-| **Ninolex** | Pronunciation infrastructure for AI voice | [Docs](https://github.com/iamnortey/ninolex-docs) · [Case Study](https://github.com/iamnortey/portfolio/blob/main/case-studies/ninolex.md) |
-| **Ninobyte** | Enterprise tooling for Claude agents | [Docs](https://github.com/iamnortey/ninobyte-docs) · [Case Study](https://github.com/iamnortey/portfolio/blob/main/case-studies/ninobyte.md) |
-| **Ninolex-GH** | Open Ghanaian pronunciation dictionary | [Repo](https://github.com/iamnortey/ninolex-gh) |
-| **Prepnest** | Educational content platform | [Docs](https://github.com/iamnortey/prepnest-docs) |
+| Project | What it is | Links |
+|---------|-----------|-------|
+| **Circle MCP Server** | Connects Claude Desktop to Circle.so communities. 16 tools, TypeScript. | [Repo](https://github.com/iamnortey/circle-mcp) |
+| **Ninolex-GH** | Open Ghanaian pronunciation dictionary for TTS and AI. Python, IPA. | [Repo](https://github.com/iamnortey/ninolex-gh) |
+| **Ojanaa** | WhatsApp-native POS with invoice trust loop. | [Docs](https://github.com/iamnortey/ojanaa-docs) · [Case Study](https://github.com/iamnortey/portfolio/blob/main/case-studies/ojanaa.md) |
+| **Ninolex** | Pronunciation infrastructure for AI voice applications. | [Docs](https://github.com/iamnortey/ninolex-docs) · [Case Study](https://github.com/iamnortey/portfolio/blob/main/case-studies/ninolex.md) |
+| **Ninobyte** | Tooling for Claude agent ecosystems. | [Docs](https://github.com/iamnortey/ninobyte-docs) |
+| **Prepnest** | Educational content platform for exam prep. | [Docs](https://github.com/iamnortey/prepnest-docs) |
 
-**[Full Portfolio](https://github.com/iamnortey/portfolio)** — Case studies, architecture diagrams, ADRs, and runbooks
-
----
-
-### Engineering Philosophy
-
-**Systems Operator:** Runbooks, decision logs, and audit trails are first-class citizens. Every phase has explicit quality gates.
-
-**Data-First:** Get the schema and domain model right before trying to scale. The data model is the foundation.
-
-**Emerging Markets:** Building for contexts where trust is low and WhatsApp is the platform. Idempotent operations, offline-first thinking.
+[Full portfolio](https://github.com/iamnortey/portfolio) — case studies, architecture, ADRs, runbooks
 
 ---
 
-### By the Numbers
+### How I work
 
-| | |
-|-|-|
-| TypeScript | 3.4M+ lines |
-| Python | 2.1M+ lines |
-| SQL/PLpgSQL | 650K+ lines |
-| Documentation | 100+ files |
-| Runbooks | 15+ |
-| ADRs | 10+ |
+- Runbooks, decision logs, and audit trails are first-class deliverables
+- Data model first, then features
+- Building for places where trust is low and WhatsApp is the platform
 
 ---
 
 ### Stack
 
-**Languages:** TypeScript, Python, SQL
-
-**Frontend:** React, Next.js, React Native, Expo
-
-**Backend:** Node.js, Supabase, PostgreSQL
-
-**AI/Voice:** Claude, ElevenLabs, Vapi
+TypeScript · Python · SQL · React · Next.js · React Native · Node.js · Supabase · PostgreSQL · Claude · ElevenLabs
 
 ---
 
-### Connect
-
-- [LinkedIn](https://linkedin.com/in/inortey/)
-- [Website](https://inortey.com)
+[LinkedIn](https://linkedin.com/in/inortey/) · [Website](https://inortey.com)
