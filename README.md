@@ -1,6 +1,6 @@
 # Isaac Nortey
 
-> Systems-oriented software engineer. Building production-grade tools with operational clarity at their core.
+> Systems-oriented. Building production-grade tools with operational clarity at their core.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-inortey-blue?style=flat&logo=linkedin)](https://linkedin.com/in/inortey/)
 [![Website](https://img.shields.io/badge/Website-inortey.com-black?style=flat)](https://inortey.com)
