@@ -14,7 +14,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Circle MCP Server**](https://github.com/iamnortey/circle-mcp) | Connects Claude Desktop to Circle.so communities. 16 tools, test-backed. | TypeScript, MCP |
+| [**Circle MCP Server**](https://github.com/iamnortey/circle-mcp-server) | MCP server for Circle.so — 16 tools for spaces, posts, members, and analytics. | TypeScript, MCP |
 | [**Ninolex-GH**](https://github.com/iamnortey/ninolex-gh) | Open Ghanaian pronunciation dictionary for TTS and AI systems. IPA, PLS, JSON. | Python |
 | [**Sanity Education Starter**](https://github.com/iamnortey/sanity-education-starter) | CMS schema for educational content platforms — subjects, topics, lessons, questions. | TypeScript, Sanity |
 
