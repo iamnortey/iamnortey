@@ -1,6 +1,6 @@
 # Isaac Nortey
 
-> Building AI operating interfaces and production-grade tools that bridge the gap between where people think and where their work lives.
+> Building production-grade software, AI operating interfaces, and workflow infrastructure across verticals where operators need better tools.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-inortey-blue?style=flat&logo=linkedin)](https://linkedin.com/in/inortey/)
 [![Website](https://img.shields.io/badge/Website-inortey.com-black?style=flat)](https://inortey.com)
@@ -10,7 +10,7 @@
 
 ## What I Build
 
-I build tools that let operators run their platforms from natural language instead of dashboards. The focus is on AI infrastructure that connects thinking tools (Claude, ChatGPT) to systems of record (Circle, Kajabi, and others) — so operators can inspect, diagnose, and act without switching contexts.
+I build operator-grade software — AI interfaces, workflow systems, content infrastructure, and vertical products. The common thread is replacing manual, high-friction work with tools that are well-modeled, well-tested, and built to last. Current focus areas include AI operating interfaces for SaaS platforms, pronunciation infrastructure for voice AI, and education/commerce products for underserved markets.
 
 ---
 
@@ -20,7 +20,7 @@ I build tools that let operators run their platforms from natural language inste
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Circle MCP**](https://github.com/iamnortey/circle-mcp) | AI operating interface for Circle.so communities — inspect, diagnose, and operate through natural language. | TypeScript |
+| [**Circle MCP**](https://github.com/iamnortey/circle-mcp) | AI operating interface for Circle.so — community operations through natural language. | TypeScript |
 | [**Ninolex-GH**](https://github.com/iamnortey/ninolex-gh) | Open Ghanaian pronunciation dictionary for TTS and AI systems. IPA, PLS, JSON. | Python |
 | [**Sanity Education Starter**](https://github.com/iamnortey/sanity-education-starter) | CMS schema for educational content platforms — subjects, topics, lessons, questions. | TypeScript, Sanity |
 
