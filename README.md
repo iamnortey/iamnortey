@@ -1,6 +1,6 @@
 # Isaac Nortey
 
-> Building production-grade software, AI operating interfaces, and workflow infrastructure across verticals where operators need better tools.
+> Building tools, AI operating interfaces, and workflow infrastructure across verticals where operators need better tools.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-inortey-blue?style=flat&logo=linkedin)](https://linkedin.com/in/inortey/)
 [![Website](https://img.shields.io/badge/Website-inortey.com-black?style=flat)](https://inortey.com)
@@ -10,7 +10,7 @@
 
 ## What I Build
 
-I build operator-grade software — AI interfaces, workflow systems, content infrastructure, and vertical products. The common thread is replacing manual, high-friction work with tools that are well-modeled, well-tested, and built to last. Current focus areas include AI operating interfaces for SaaS platforms, pronunciation infrastructure for voice AI, and education/commerce products for underserved markets.
+I build tools that help people work more clearly and efficiently — including AI interfaces, workflow systems, content infrastructure, and focused vertical products. Much of my work is centered on reducing friction, improving reliability, and making useful systems easier to operate. My current focus includes AI tools for SaaS platforms, pronunciation infrastructure for voice AI, and education and commerce products for underserved markets.
 
 ---
 
