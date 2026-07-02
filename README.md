@@ -37,7 +37,7 @@ Product application code is **private by design**; each project publishes archit
 |---------|-------------|-------|
 | [**Circle MCP**](https://github.com/iamnortey/circle-mcp) | AI operating interface for Circle.so — community operations through natural language. 16 tools, test-backed. | TypeScript |
 | [**Ninolex-GH**](https://github.com/iamnortey/ninolex-gh) | Open Ghanaian pronunciation dictionary for TTS and AI systems. IPA, PLS, JSON. | Python |
-| [**Sanity Education Starter**](https://github.com/iamnortey/sanity-education-starter) | CMS schema starter for educational content platforms — subjects, topics, lessons, questions. | TypeScript · Sanity |
+| [**Sanity Education Starter**](https://github.com/iamnortey/sanity-education-starter) | Archived — CMS schema starter from Prepnest's earlier architecture generation; preserved as a reference. | TypeScript · Sanity |
 
 ---
 
